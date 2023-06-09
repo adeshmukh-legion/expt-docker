@@ -1,7 +1,7 @@
 # Docker Experiments
 
 ```console
-$ cd dockerfiles
+$ cd cmd-and-entrypoint
 
 $ make images
 
